@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SIASAT UKSW</string>
+    <string name="login_title">Login SIASAT</string>
+    <string name="register_title">Register SIASAT</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="back">Kembali</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="manage_courses">Kelola Mata Kuliah</string>
+    <string name="input_grades">Input Nilai</string>
+    <string name="view_grades">Lihat Nilai</string>
+    <string name="view_transcript">Lihat Transkrip</string>
+    <string name="course_name">Nama Mata Kuliah</string>
+    <string name="credits">SKS</string>
+    <string name="semester">Semester</string>
+    <string name="lecturer_id">ID Dosen</string>
+    <string name="student_id">ID Mahasiswa</string>
+    <string name="course_id">ID Mata Kuliah</string>
+    <string name="grade">Nilai</string>
+    <string name="year">Tahun</string>
+    <string name="add_course">Tambah Mata Kuliah</string>
+    <string name="input_grade">Input Nilai</string>
+    <string name="total_credits">Total SKS</string>
+    <string name="gpa">IPK</string>
+    <string name="academic_transcript">Transkrip Akademik</string>
+    <string name="grade_list">Daftar Nilai</string>
+    <string name="course_management">Kelola Mata Kuliah</string>
+</resources>
